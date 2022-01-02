@@ -20,7 +20,7 @@ class _PlanetDetailScreenState extends State<PlanetDetailScreen> {
     final width = MediaQuery.of(context).size.width;
     return Scaffold(
       
-      // backgroundColor: Colors.black,
+      backgroundColor: Colors.black,
       body: SafeArea(
         
         child: SingleChildScrollView(
